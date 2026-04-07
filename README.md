@@ -116,3 +116,14 @@ Context is updated
 Response is generated via:
 TensorFlow scripted reply (if structured intent)
 Claude or Gemini API (if generative response required)
+
+🔮 Future Improvements
+Transformer-based fine-tuning (BERT / DistilBERT)
+Memory-augmented conversational architecture
+Deployment as a web app (Streamlit / FastAPI)
+Voice-based interaction
+Reinforcement learning for response optimization
+👤 Author
+
+Ibrahim Abduljabbar Hamid
+AI Intern | Machine Learning & Computer Vision Enthusiast
